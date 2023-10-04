@@ -1,1 +1,4 @@
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g>Square<rect x="73" y="40" width="160" height="160" fill="blue"/><text x="150" y="125" text-anchor="middle" font-size="60" fill="red">hhf</text></g></svg>
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+<rect width="190" height="190" fill="green"/>
+<text x="150" y="125" text-anchor="middle" font-size="60" fill="yellow">abc</text>
+</svg>
